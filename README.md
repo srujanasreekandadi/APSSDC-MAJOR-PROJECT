@@ -229,7 +229,7 @@ target_encoder.pkl
 ### 1. Clone the repository
 
 ```text
-git clone <your-github-repository-link>
+git clone <https://github.com/srujanasreekandadi/APSSDC-MAJOR-PROJECT>
 ```
 
 ### 2. Open the Python file
